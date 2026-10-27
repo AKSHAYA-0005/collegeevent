@@ -1,0 +1,17 @@
+com/college/eventregistration/entity/Event.class
+com/college/eventregistration/repository/EventRepository.class
+com/college/eventregistration/dto/RegistrationResponseDTO.class
+com/college/eventregistration/exception/ResourceNotFoundException.class
+com/college/eventregistration/controller/RegistrationController.class
+com/college/eventregistration/dto/EventRequestDTO.class
+com/college/eventregistration/service/impl/EventServiceImpl.class
+com/college/eventregistration/dto/RegistrationRequestDTO.class
+com/college/eventregistration/exception/GlobalExceptionHandler.class
+com/college/eventregistration/config/CorsConfig.class
+com/college/eventregistration/dto/EventResponseDTO.class
+com/college/eventregistration/repository/EventRegistrationRepository.class
+com/college/eventregistration/EventRegistrationApplication.class
+com/college/eventregistration/service/EventService.class
+com/college/eventregistration/entity/EventRegistration.class
+com/college/eventregistration/exception/DuplicateRegistrationException.class
+com/college/eventregistration/controller/EventController.class
